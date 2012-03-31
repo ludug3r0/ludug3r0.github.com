@@ -1,0 +1,11 @@
+layout: post
+title: Forking Github Pages
+
+{{ page.title }}
+31 May 2012
+
+# Fork repository
+# Rename at github
+# clone
+# modify and commit
+# push

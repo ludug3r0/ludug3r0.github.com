@@ -4,6 +4,7 @@ title: Forking Github Pages
 ---
 
 h1. {{ page.title }}
+
 p(meta). 31 May 2012 - Recife
 
 # Fork repository

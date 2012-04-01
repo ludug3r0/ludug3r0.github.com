@@ -3,8 +3,8 @@ layout: post
 title: Forking Github Pages
 ---
 
-{{ page.title }}
-31 May 2012
+h1. {{ page.title }}
+p(meta). 31 May 2012 - Recife
 
 # Fork repository
 # Rename at github

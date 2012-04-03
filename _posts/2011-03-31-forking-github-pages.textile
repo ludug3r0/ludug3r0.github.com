@@ -7,6 +7,8 @@ h1. {{ page.title }}
 
 p(meta). 31 May 2012 - Recife
 
+Basically just follow the steps:
+
 # Fork repository
 # Rename at github
 # clone
